@@ -1,7 +1,7 @@
 import { Canvas } from '@react-three/fiber';
 import { Suspense, useEffect, useRef, useState } from "react";
 import Loader from '../components/Loader';
-import Island from '../models/island';
+import Island from '../models/Island';
 import { Stars } from '@react-three/drei';
 import * as THREE from 'three';
 import Bird from '../models/Bird';
